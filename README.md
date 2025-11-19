@@ -24,6 +24,6 @@
 [<img align="left" alt="JustinKeeth | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/youtube.svg" />][youtube]
 
 
-[linkedin]: https://www.linkedin.com/in/justin-keeth-019733370/
+[linkedin]: https://www.linkedin.com/in/justinkeeth/
 [x/twitter]: https://x.com/justinkeethtech
 [youtube]: https://www.youtube.com/@justinkeeth
